@@ -1,0 +1,14 @@
+﻿  VeryAmazingUI.cpp
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\sort.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\sort.h(28): warning C4018: '<': signed/unsigned mismatch
+VeryAmazingUI.cpp(47): warning C4018: '>=': signed/unsigned mismatch
+VeryAmazingUI.cpp(57): warning C4018: '>=': signed/unsigned mismatch
+VeryAmazingUI.cpp(72): warning C4018: '>=': signed/unsigned mismatch
+VeryAmazingUI.cpp(87): warning C4018: '>=': signed/unsigned mismatch
+VeryAmazingUI.cpp(102): warning C4018: '>=': signed/unsigned mismatch
+  Generating code
+  1 of 219 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sorting.vcxproj -> C:\Users\tdalg\Documents\Visual Studio 2017\Projects\sorting\Release\sorting.exe

@@ -1,0 +1,24 @@
+Row	   index for said row
+1		0
+2		79
+3		158
+4		237
+5		316
+6		395	
+7		474
+8		553
+9		632
+10		711
+11		790
+---END OF TITLE SCREEN---
+12		869
+13		948
+14		1027
+15		1106
+16		1185
+17		1264
+18		1343
+19		1422
+20		1501
+
+The menu title thing ends after line 12 so anything after that is free game

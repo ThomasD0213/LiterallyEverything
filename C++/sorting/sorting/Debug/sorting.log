@@ -1,0 +1,9 @@
+﻿  VeryAmazingUI.cpp
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\sort.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\sort.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\veryamazingui.cpp(55): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\veryamazingui.cpp(65): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\veryamazingui.cpp(80): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\veryamazingui.cpp(95): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\sorting\sorting\veryamazingui.cpp(110): warning C4018: '>=': signed/unsigned mismatch
+  sorting.vcxproj -> C:\Users\tdalg\Documents\Visual Studio 2017\Projects\sorting\Debug\sorting.exe

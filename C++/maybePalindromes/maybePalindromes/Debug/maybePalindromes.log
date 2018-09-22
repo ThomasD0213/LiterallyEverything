@@ -1,0 +1,5 @@
+﻿  Palindrome.cpp
+c:\users\tdalg\documents\visual studio 2017\projects\maybepalindromes\maybepalindromes\palindrome.h(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\maybepalindromes\maybepalindromes\palindrome.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdalg\documents\visual studio 2017\projects\maybepalindromes\maybepalindromes\palindrome.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  maybePalindromes.vcxproj -> C:\Users\tdalg\Documents\Visual Studio 2017\Projects\maybePalindromes\Debug\maybePalindromes.exe
