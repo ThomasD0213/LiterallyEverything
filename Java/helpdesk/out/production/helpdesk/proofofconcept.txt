@@ -1,0 +1,43 @@
+This will be a set of branching answers, going from button input, to 3 options, to 3 options, to 3 options, to techsupportAnswers.
+
+Set 1:
+Welcome to Fesh Technologies tech support in conjunction with Dalgetty Studios, how can we help you today?
+
+A. Hardware Questions (selected)
+B. Software Questions
+C. Contact IT Representative
+
+# This will be all computer (A) branch options.
+
+You have selected option A, Hardware Questions. Which piece of hardware are you having problems with?
+
+A. Computer (selected)
+B. Phone/Tablet
+C. Other
+
+# This will be all computer (A) branch options
+
+Fantastic! What part of your computer are you having trouble with?
+
+A. No Picture or No Sound (selected)
+B. Computer does not turn on
+C. Other technical issue
+
+Great to know. Have you unplugged and replugged in your audio or video output device?
+
+A. Yes (Selected)
+B. No
+
+I'm glad that we could help you with your issue today. Thank you for using the help desk!
+
+Great to know. Have you unplugged and replugged in your audio or video output device?
+
+A. Yes
+B. No (Selected)
+
+Unplug and replug in your audio or video output device. Did that solve the issue today?
+
+A. Yes (Selected)
+B. No
+
+I'm glad that we could help you with your issue today. Thank you for using the help desk!

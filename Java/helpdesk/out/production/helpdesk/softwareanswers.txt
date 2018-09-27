@@ -1,0 +1,16 @@
+Verify that you have permission to open the file.
+Verify that the pop-up blocker is turned on.
+Check the application labeled "Recycle Bin".
+Verify that your username and password are correct.
+Verify that you have permission to use the application on your device.
+Verify that you are logged into your organization account and not your personal account.
+Use the update client to download and install the update.
+Open the application named "Accessibility" and adjust the tab labeled "Text Size" to your needs.
+Verify that you are logged into your organization account and not your personal account.
+Turn your device off and on again.
+Use the same user account as you did on your old device to get all of your files back.
+Turn your device off and on again.
+Use the Password Reset client for your account.
+Check the application's website for information.
+Turn your device off and on again.
+Turn your device off and on again.

@@ -1,0 +1,14 @@
+---HOME PATH---
+E:\helpdesk\hardwareanswers.txt
+E:\helpdesk\softwareanswers.txt
+E:\helpdesk\techsupportanswers.txt
+E:\helpdesk\hardwarequestions.txt
+E:\helpdesk\softwarequestions.txt
+E:\helpdesk\techsupportquestions.txt
+---SCHOOL PATH---
+C:\Users\dalgettyt\Desktop\helpdesk\hardwareanswers.txt
+C:\Users\dalgettyt\Desktop\helpdesk\softwareanswers.txt
+C:\Users\dalgettyt\Desktop\helpdesk\techsupportanswers.txt
+C:\Users\dalgettyt\Desktop\helpdesk\hardwarequestions.txt
+C:\Users\dalgettyt\Desktop\helpdesk\softwarequestions.txt
+C:\Users\dalgettyt\Desktop\helpdesk\techsupportquestions.txt
