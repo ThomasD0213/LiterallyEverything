@@ -8,6 +8,7 @@ public interface HelpMethods
     */
 
 
+
     public String getQuestion(int array, int index); //returns a question from specified array and index
     public String getAnswer(int array, int index); //returns a question from specified array and index
     public ArrayList<String> getHardwareQuestions(); //returns hardwareQuestions arraylist

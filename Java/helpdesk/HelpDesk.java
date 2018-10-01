@@ -30,6 +30,8 @@
 
 import java.io.*;
 import java.util.*;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 public class HelpDesk implements HelpMethods {
     private ArrayList<String> hardwareAnswers; //contains answers for the most common hardware questions
@@ -39,22 +41,12 @@ public class HelpDesk implements HelpMethods {
     private ArrayList<String> softwareQuestions; //contains general software questions
     private ArrayList<String> techSuppQuestions; //contains general techsupport questions
 
-    private final String MAIN_PATH = "C:\\Users\\dalgettyt\\Desktop\\helpdesk\\";
-    private final String HARDWARE_ANSWER_PATH =   MAIN_PATH + "hardwareanswers.txt"; //"C:\\Users\\fesha\\Documents\\helpdesk\\hardwareanswers.txt";
-    private final String SOFTWARE_ANSWER_PATH =   MAIN_PATH + "softwareanswers.txt"; //"C:\\Users\\fesha\\Documents\\helpdesk\\softwareanswers.txt";
-    private final String TECHSUPP_ANSWER_PATH =   MAIN_PATH + "techsupportanswers.txt"; //"C:\\Users\\fesha\\Documents\\helpdesk\\techsupportanswers.txt";
-    private final String HARDWARE_QUESTION_PATH = MAIN_PATH + "hardwarequestions.txt";//"C:\\Users\\fesha\\Documents\\helpdesk\\hardwarequestions.txt";
-    private final String SOFTWARE_QUESTION_PATH = MAIN_PATH + "softwarequestions.txt";//"C:\\Users\\fesha\\Documents\\helpdesk\\softwarequestions.txt";
-    private final String TECHSUPP_QUESTION_PATH = MAIN_PATH + "techsupportquestions.txt";//"C:\\Users\\fesha\\Documents\\helpdesk\\techsupportquestions.txt";
-
-
-    private File hardwareAnswerFile =       new File(HARDWARE_ANSWER_PATH); //this file is used to populate hardwareAnswers in constructor
-    private File softwareAnswerFile =       new File(SOFTWARE_ANSWER_PATH); //this file is used to populate softwareAnswers in constructor
-    private File techSuppAnswerFile =       new File(TECHSUPP_ANSWER_PATH); //this file is used to populate techSuportAnswers in constructor
-    private File hardwareQuestionFile =     new File(HARDWARE_QUESTION_PATH);
-    private File softwareQuestionFile =     new File(SOFTWARE_QUESTION_PATH);
-    private File techSuppQuestionFile =     new File(TECHSUPP_QUESTION_PATH);
-
+    private File hardwareAnswerFile =       new File("hardwareanswers.txt"); //this file is used to populate hardwareAnswers in constructor
+    private File softwareAnswerFile =       new File("softwareanswers.txt"); //this file is used to populate softwareAnswers in constructor
+    private File techSuppAnswerFile =       new File("techsupportanswers.txt"); //this file is used to populate techSuportAnswers in constructor
+    private File hardwareQuestionFile =     new File("hardwarequestions.txt");
+    private File softwareQuestionFile =     new File("softwarequestions.txt");
+    private File techSuppQuestionFile =     new File("techsupportquestions.txt");
 
     private BufferedReader hardwareAnsReader;
     private BufferedReader softwareAnsReader;
@@ -148,6 +140,14 @@ public class HelpDesk implements HelpMethods {
         }
     }
 
+    public void listToString(ArrayList<String> list){
+        int i = 0;
+        for(String element : list) {
+            System.out.println(i + ": " + element);
+            i++;
+        }
+
+    }
     public ArrayList<String> getHardwareQuestions() { return hardwareQuestions; }
     public ArrayList<String> getHardwareAnswers()   { return hardwareAnswers; }
     public ArrayList<String> getSoftwareQuestions() { return softwareQuestions; }
