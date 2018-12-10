@@ -1,0 +1,8 @@
+﻿  Matrix.cpp
+Matrix.cpp(87): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Matrix.cpp(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Matrix.cpp(108): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MatrixMultiplication.vcxproj -> C:\Users\dalgettyt\Documents\Visual Studio 2017\Projects\MatrixMultiplication\x64\Release\MatrixMath.exe

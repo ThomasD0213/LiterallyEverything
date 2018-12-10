@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MatrixMultiplication.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Matrix.cpp
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.h(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.h(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\dalgettyt\documents\visual studio 2017\projects\matrixmultiplication\matrixmultiplication\matrix.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  MatrixMultiplication.vcxproj -> C:\Users\dalgettyt\Documents\Visual Studio 2017\Projects\MatrixMultiplication\Debug\MatrixMath.exe
+  MatrixMultiplication.vcxproj -> C:\Users\dalgettyt\Documents\Visual Studio 2017\Projects\MatrixMultiplication\Debug\MatrixMath.pdb (Partial PDB)
